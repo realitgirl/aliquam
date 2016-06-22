@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Thank You!
+title: Ďakujem!
 comments: false
 css: /thankyou.css
 ---
 
 # __THANK YOU!__
 
-Your submission was successful, I will contact you shortly.
+Tvoja správa bola poslaná, budem ťa čoskoro kontaktovať :).
 
 [Back to main page]({{ site.baseurl }}/index.html)
