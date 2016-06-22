@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-description: More information about me and this website.
+title: O mne
+description: Informácie o mne a mojom blogu.
 ---
 
 I am ...
