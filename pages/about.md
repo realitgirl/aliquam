@@ -8,7 +8,7 @@ I am ...
 
 ## My skills
 
-<div id="skills">
+<!--<div id="skills">
 <div>
 <p><span>jekyll</span><span>95%</span></p>
 <progress value="95" max="100"></progress>
@@ -31,7 +31,7 @@ I am ...
 <p><span>php</span><span>20%</span></p>
 <progress value="20" max="100"></progress>
 </div>
-</div>
+</div>-->
 
 ## Contact form
 
