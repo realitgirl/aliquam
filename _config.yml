@@ -59,10 +59,10 @@ contact_PK: 56c97de786c70610fd80fa57c18f51f1
 paginate: 5
 
 # Set permalink
-permalink: /:categories/:title
+permalink: /:title
 
 # Set excerpt separator
-truncate_size: 40
+truncate_size: 100
 
 ##########################################
 #          Do not change these variables
